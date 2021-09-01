@@ -2,7 +2,7 @@
 
 > Sou estudante de Sistemas para Internet na FATEC São Roque
 
-🔭 Atualmente faço parte do time de desenvolvimento de um projeto para a @atleticagodzilla
+🔭 Atualmente sou estágiario no time de desenvolvimento frontend da Raccoon Marketing Digital
 
 ----
 
