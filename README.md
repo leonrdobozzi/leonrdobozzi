@@ -22,7 +22,7 @@
 ## ⛏️ Ferramentas
 
 <div>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/linux.svg" alt="linux" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/terminal.svg" alt="linux" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg" alt="git" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/github.svg" alt="github" width="25" height="25" />
 </div>
