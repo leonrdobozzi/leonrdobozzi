@@ -4,7 +4,7 @@
 
 🔭 Atualmente sou estágiario no time de desenvolvimento frontend da Raccoon Marketing Digital
 
-<img src="https://media4.giphy.com/media/Lq0gapdf2AYBImvECV/giphy.gif">
+<img style="width: 50px; height: 50px" src="https://media4.giphy.com/media/Lq0gapdf2AYBImvECV/giphy.gif">
 
 ## 🚀 Minhas Skills
 <div>
