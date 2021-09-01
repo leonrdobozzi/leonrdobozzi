@@ -34,4 +34,4 @@
 ----
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonrdobozzi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonrdobozzi&show_icons=true&theme=tokyonight&border=false)
