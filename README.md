@@ -4,10 +4,10 @@
 
 🔭 Atualmente sou estágiario no time de desenvolvimento frontend da Raccoon Marketing Digital
 
-<center><img src="https://media3.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=ecf05e47e6ku909yauif9lgk9xnimlet4o8im71fk32ox1wx&rid=giphy.gif&ct=g"></center>
+<img src="https://media3.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=ecf05e47e6ku909yauif9lgk9xnimlet4o8im71fk32ox1wx&rid=giphy.gif&ct=g">
 
 ## 🌐 Meu portfólio na web
-<img width="100px" height="100px" src="https://media4.giphy.com/media/Lq0gapdf2AYBImvECV/giphy.gif">
+<img width="100px" height="100px" src="https://i.imgur.com/p5yhHaJ.png">
 
 ## 🚀 Minhas Skills
 <div>
