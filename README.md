@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodemon.svg" alt="nodemon" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sequelize.svg" alt="sequelize" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/ejs.svg" alt="ejs" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/minecraft.svg" alt="minecraft" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/database.svg" alt="database" width="30" height="30" />
 </div>
 
 ----
