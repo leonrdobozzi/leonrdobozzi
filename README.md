@@ -3,8 +3,10 @@
 > Sou estudante de Sistemas para Internet na FATEC São Roque
 
 🔭 Atualmente sou estágiario no time de desenvolvimento frontend da Raccoon Marketing Digital
-
-<img width="50px" height="50px" src="https://media4.giphy.com/media/Lq0gapdf2AYBImvECV/giphy.gif">
+<div>
+<img width="100px" height="100px" src="https://media4.giphy.com/media/Lq0gapdf2AYBImvECV/giphy.gif">
+<img width="150px" height="150px" src="https://i.imgur.com/p5yhHaJ.png">
+</div>
 
 ## 🚀 Minhas Skills
 <div>
