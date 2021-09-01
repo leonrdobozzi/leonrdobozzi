@@ -8,13 +8,12 @@
 
 ## 🚀 Minhas Skills
 <div>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="html" width="25" height="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html.svg"  alt="html" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="css" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/bootstrap.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/styled-components.svg" alt="styled components" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sequelize.svg" alt="sequelize" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/ejs.svg" alt="ejs" width="25" height="25" />
 </div>
