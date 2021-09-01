@@ -5,9 +5,8 @@
 🔭 Atualmente sou estágiario no time de desenvolvimento frontend da Raccoon Marketing Digital
 
 ----
-
-<iframe src="https://giphy.com/embed/8Ps9NIsFFmo5esFuWx" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pokemon-mewtwo-8Ps9NIsFFmo5esFuWx">via GIPHY</a></p>
-
+<img src="https://giphy.com/gifs/pokemon-mewtwo-8Ps9NIsFFmo5esFuWx">
+<img src="https://giphy.com/embed/8Ps9NIsFFmo5esFuWx">
 ----
 
 ## 🚀 Minhas Skills
