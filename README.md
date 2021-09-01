@@ -4,7 +4,6 @@
 
 🔭 Atualmente sou estágiario no time de desenvolvimento frontend da Raccoon Marketing Digital
 
-<br>
 
 ## 🌐 Meu portfólio na web
 <img width="100px" height="100px" src="https://i.imgur.com/p5yhHaJ.png">
