@@ -6,7 +6,7 @@
 
 
 ## 🌐 Meu portfólio na web
-<img width="100px" height="100px" src="https://i.imgur.com/p5yhHaJ.png">
+<a href="https://leonrdobozzi.github.io"><img width="100px" height="100px" src="https://i.imgur.com/p5yhHaJ.png"></a>
 
 ## 🚀 Minhas Skills
 <div>
