@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Leonardo Bozzi</strong>
 
-> Sou estudante de Sistemas para Internet na FATEC São Roque
+> Sou estudante de Sistemas para Internet na FATEC São Roque e membro do Ignite da Rocketseat desde 15/09/2021 🚀
 
 🔭 Atualmente sou estágiario no time de desenvolvimento frontend da Raccoon Marketing Digital
 
