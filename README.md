@@ -14,6 +14,7 @@
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="css" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" alt="nodejs" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/database.svg" alt="SQL" width="30" height="30" />
 </p>
