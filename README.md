@@ -1,6 +1,6 @@
 ## 💜 Hello, my name is <strong>Leonardo Bozzi</strong>
 
-> i'm student of Internet Systems in the FATEC São Roque 🚀
+> I'm a student of Internet Systems in the FATEC São Roque 🚀
 
 🔭 I'm currently an intern in the frontend development team from Raccoon.Monks
 
