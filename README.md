@@ -1,24 +1,24 @@
-## 💜 Olá, meu nome é <strong>Leonardo Bozzi</strong>
+## 💜 Hello, my name is <strong>Leonardo Bozzi</strong>
 
-> Sou estudante de Sistemas para Internet na FATEC São Roque 🚀
+> i'm student of Sistemas para Internet in the FATEC São Roque 🚀
 
-🔭 Atualmente sou estágiario no time de desenvolvimento frontend da Raccoon Marketing Digital
+🔭 I'm currently an intern in the frontend development team from Raccoon.Monks
 
 
-## 🌐 Meu portfólio na web
+## 🌐 My portfolio in the web
 <a href="https://leonrdobozzi.github.io"><img width="100px" height="100px" src="https://i.imgur.com/p5yhHaJ.png"></a>
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 <div>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" title="html" alt="html" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" title="css" alt="css" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" title="sass" alt="sass" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" title="javascript" alt="javascript" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" title="react" alt="react" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" title="typescript" alt="typescript" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" title="nodejs" alt="nodejs" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/prisma.svg" title="prisma" alt="prisma" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/database.svg" title="MySQL / PostgreSQL / MongoDB" alt="Databases" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" title="HTML" alt="HTML" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" title="CSS" alt="CSS" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" title="SCSS" alt="SCSS" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" title="JAVASCRIPT" alt="JAVASCRIPT" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" title="REACT" alt="REACT" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" title="TYPESCRIPT" alt="TYPESCRIPT" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" title="NODEJS" alt="NODEJS" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/prisma.svg" title="PRISMA" alt="PRISMA" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/database.svg" title="MySQL / PostgreSQL / MongoDB" alt="MySQL / PostgreSQL / MongoDB" width="30" height="30" />
 </p>
 
 </div>
@@ -28,15 +28,15 @@
 ## ⛏️ Ferramentas
 
 <div>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" title="vscode" alt="vscode" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg" title="git" alt="git" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gitlab.svg" title="gitlab" alt="gitlab" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/npm.svg" title="npm" alt="npm" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/console.svg" title="linux" alt="Linux" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodemon.svg" title="nodemon" alt="nodemon" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" title="VSCODE" alt="VSCODE" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg" title="GIT" alt="GIT" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gitlab.svg" title="GITLAB" alt="GITLAB" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/npm.svg" title="NPM" alt="NPM" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/console.svg" title="LINUX" alt="LINUX" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodemon.svg" title="NODEMON" alt="NODEMON" width="30" height="30" />
 </div>
 
 ----
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Informations about my GitHub Account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonrdobozzi&show_icons=true&theme=omni)
