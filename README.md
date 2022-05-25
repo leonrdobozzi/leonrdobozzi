@@ -25,7 +25,7 @@
 
 ----
 
-## ⛏️ Ferramentas
+## ⛏️ Tools
 
 <div>
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" title="VSCODE" alt="VSCODE" width="30" height="30" />
