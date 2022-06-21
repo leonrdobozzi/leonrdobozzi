@@ -70,6 +70,3 @@
 <div align="center">
   <img height="200" src="https://i.imgflip.com/6btbpy.jpg"  />
 </div>
-
-###
-Profile Readme Generator
