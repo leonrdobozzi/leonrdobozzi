@@ -1,7 +1,7 @@
 ## 💜 Hello, my name is <strong>Leonardo Bozzi</strong>
 
 > I'm a student of Internet Systems in the FATEC São Roque (6/6) 🚀<br/>
-> I'm currently an analyst II in the Web development team from Raccoon.Monks 🔭
+> I'm currently an Technology Analist Sr. in the Web development team from Raccoon.Monks 🔭
 
 
 ## 🌐 My portfolio in the web
