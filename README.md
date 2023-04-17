@@ -1,10 +1,10 @@
 ## 💜 Hello, my name is <strong>Leonardo Bozzi</strong>
 
-> I'm a student of Internet Systems in the FATEC São Roque (6/6) 🚀<br/>
-> I'm currently an Technology Analyst Sr. in the Web development team from Raccoon.Monks 🔭
+> Graduated in Internet Systems at FATEC São Roque 🚀<br/>
+> I'm currently an Sr Technology Analyst in the Web Development Team from Media.Monks Brazil 🔭
 
 
-## 🌐 My portfolio in the web
+## 🌐 My portfolio
 <a href="https://leonrdobozzi.github.io"><img width="100px" height="100px" src="https://i.imgur.com/p5yhHaJ.png"></a>
 
 ## 🚀 My Skills
@@ -28,6 +28,7 @@
 
 <div>
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" title="VSCODE" alt="VSCODE" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" title="DOCKER" alt="DOCKER" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg" title="GIT" alt="GIT" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gitlab.svg" title="GITLAB" alt="GITLAB" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/npm.svg" title="NPM" alt="NPM" width="30" height="30" />
