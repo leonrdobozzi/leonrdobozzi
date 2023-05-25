@@ -34,6 +34,7 @@
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gitlab.svg" title="GITLAB" alt="GITLAB" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/npm.svg" title="NPM" alt="NPM" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/console.svg" title="LINUX" alt="LINUX" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/prettier.svg" title="PRETTIER" alt="PRETTIER" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodemon.svg" title="NODEMON" alt="NODEMON" width="30" height="30" />
 </div>
 
