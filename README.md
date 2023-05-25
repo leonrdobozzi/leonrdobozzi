@@ -14,6 +14,7 @@
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" title="SCSS" alt="SCSS" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" title="JAVASCRIPT" alt="JAVASCRIPT" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" title="REACT" alt="REACT" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react-native.svg" title="REACT NATIVE" alt="REACT" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" title="NEXT" alt="NEXT" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" title="TYPESCRIPT" alt="TYPESCRIPT" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" title="NODEJS" alt="NODEJS" width="30" height="30" />
