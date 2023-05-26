@@ -1,44 +1,78 @@
-## 💜 Hello, my name is <strong>Leonardo Bozzi</strong>
-
-> Graduated in Internet Systems at FATEC São Roque 🚀<br/>
-> I'm currently an Sr Technology Analyst in the Web Development Team from Media.Monks Brazil 🔭
-
-
-## 🌐 My portfolio
-<a href="https://leonrdobozzi.github.io"><img width="100px" height="100px" src="https://i.imgur.com/p5yhHaJ.png"></a>
-
-## 🚀 My Skills
-<div>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" title="HTML" alt="HTML" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" title="CSS" alt="CSS" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" title="SCSS" alt="SCSS" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" title="JAVASCRIPT" alt="JAVASCRIPT" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" title="REACT" alt="REACT" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" title="NEXT" alt="NEXT" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" title="TYPESCRIPT" alt="TYPESCRIPT" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" title="NODEJS" alt="NODEJS" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/prisma.svg" title="PRISMA" alt="PRISMA" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/database.svg" title="MySQL / PostgreSQL / MongoDB" alt="MySQL / PostgreSQL / MongoDB" width="30" height="30" />
-</p>
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif"  />
 </div>
 
-----
+###
 
-## ⛏️ Tools
-
-<div>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" title="VSCODE" alt="VSCODE" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" title="DOCKER" alt="DOCKER" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg" title="GIT" alt="GIT" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gitlab.svg" title="GITLAB" alt="GITLAB" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/npm.svg" title="NPM" alt="NPM" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/console.svg" title="LINUX" alt="LINUX" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/prettier.svg" title="PRETTIER" alt="PRETTIER" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodemon.svg" title="NODEMON" alt="NODEMON" width="30" height="30" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonardobozzi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/leonardobozzi.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
-----
+###
 
-## ⭐ Informations about my GitHub Account
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonrdobozzi&show_icons=true&theme=omni)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=leonrdobozzi.leonrdobozzi&"  />
+</div>
+
+###
+
+<h1 align="center">Hello, my name is Leonardo Bozzi 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Leonardo from São Roque - SP, Brasil<br><br>- 🔭 I’m working as Sr Technology Analyst in the Web Development Team from Media.Monks Brazil<br>- 📚 I'm currently learning NextJS and TDD<br>- ⚡ In my free time I see about cars</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=leonrdobozzi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonrdobozzi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonrdobozzi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
