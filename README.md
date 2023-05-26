@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Leonardo from São Roque - SP, Brasil<br><br>- 🔭 I’m working as Sr Technology Analyst in the Web Development Team from Media.Monks Brazil<br>- 📚 I'm currently learning NextJS and TDD<br>- ⚡ In my free time I see about cars</p>
+<p align="left">I'm Leonardo from São Roque - SP, Brasil<br><br>- 🔭 I’m working as Sr Technology Analyst in the Web Development Team from Media.Monks Brazil<br>- 📚 I'm currently learning NextJS and TDD</p>
 
 ###
 
